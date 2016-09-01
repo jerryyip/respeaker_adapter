@@ -1,6 +1,8 @@
 ReSpeaker Adapter
 =============
 
+http://www.instructables.com/id/DIY-Your-ReSpeaker-AdapterVoice-Control/
+
 Use your voice to control a power adapter. Make Home Automation easier.
 
 mic > keyword spotting (pocketsphinx) > stt (bing) > text parser > Wio Node > Grove - Relay	
